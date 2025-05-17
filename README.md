@@ -18,18 +18,5 @@ Utilizando dados disponíveis em arquivos CSV hospedados no GitHub, o código re
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook (ou Google Colab)
+- Google Colab
 
-## 📁 Fontes dos Dados
-
-Os dados foram obtidos diretamente dos arquivos CSV hospedados no GitHub da Alura:
-
-- Loja 1: `loja_1.csv`
-- Loja 2: `loja_2.csv`
-- Loja 3: `loja_3.csv`
-- Loja 4: `loja_4.csv`
-
-Os arquivos são carregados diretamente a partir das seguintes URLs:
-
-```python
-url = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_1.csv"
